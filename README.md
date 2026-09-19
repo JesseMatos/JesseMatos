@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.gif" width="100%"/>
 
-# 👋 Hi, I'm Jesse!
+# 👋 Hi, I'm Jessé!
 
 ### Software Engineering Student | Aspiring Software Developer
 
